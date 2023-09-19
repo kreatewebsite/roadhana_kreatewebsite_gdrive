@@ -1,0 +1,4 @@
+Flask==2.3.2
+Flask-Cors==4.0.0
+gdown==4.7.1
+PyGithub==1.59.1
